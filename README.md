@@ -6,7 +6,7 @@
 ![LangChain](https://img.shields.io/badge/LangChain-8A2BE2)
 ![Hugging Face](https://img.shields.io/badge/Hugging%20Face-Transformers-yellow)
 
-Um chatbot inteligente que utiliza um modelo de linguagem rodando 100% localmente para responder perguntas sobre a Lei Geral de Proteção de Dados (LGPD) do Brasil, com base no texto oficial da lei.
+Um chatbot inteligente que utiliza um modelo de linguagem para responder perguntas sobre a Lei Geral de Proteção de Dados (LGPD) do Brasil, com base no texto oficial da lei.
 
 ---
 ![Demonstração do LGPD-Explica](image.png)
