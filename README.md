@@ -8,6 +8,20 @@
 
 Um chatbot inteligente que utiliza um modelo de linguagem para responder perguntas sobre a Lei Geral de Proteção de Dados (LGPD) do Brasil, com base no texto oficial da lei.
 
+## 📋 Resumo Executivo
+
+**LGPD-Explica** é uma ferramenta de consulta interativa que democratiza o acesso à Lei Geral de Proteção de Dados (LGPD) através de inteligência artificial. O sistema permite que usuários façam perguntas em linguagem natural sobre qualquer aspecto da legislação e recebam respostas precisas e contextualizadas, extraídas diretamente do texto oficial da lei.
+
+### Características Principais:
+- 🤖 **IA Local**: Modelo TinyLlama rodando 100% na sua máquina (sem envio de dados para terceiros)
+- 📚 **Base Confiável**: Respostas baseadas exclusivamente no texto oficial da LGPD
+- 🔍 **Fontes Transparentes**: Visualização dos trechos específicos da lei utilizados em cada resposta
+- 💻 **Interface Simples**: Interface web intuitiva desenvolvida em Streamlit
+- 🚀 **Fácil Instalação**: Configuração rápida com Python e dependências bem documentadas
+
+### Tecnologias:
+Python • Streamlit • LangChain • RAG • TinyLlama • FAISS • Sentence-Transformers
+
 ---
 ![Demonstração do LGPD-Explica](image.png)
 
